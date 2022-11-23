@@ -2,3 +2,4 @@
 
 Preview some of my work<br>
 Meyawo Live Preview: https://devalyabdullah.github.io/Meyawo/
+Banner Live Preview: https://devalyabdullah.github.io/Banner/
