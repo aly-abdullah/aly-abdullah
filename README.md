@@ -1,4 +1,4 @@
-<img src="http://drive.google.com/uc?export=view&amp;id=1PwiGHRUvzwjObI8DUO5nswGoa9DSreCg" alt="">
+<img src="http://drive.google.com/uc?export=view&amp;id=1NiZJDxrhhQNsT0vUZlzdQVlC8zWamaec" alt="">
 
 Live Preview some of my work<br>
 Meyawo: https://devalyabdullah.github.io/Meyawo/<br>
