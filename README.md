@@ -22,6 +22,9 @@ Senior Full-Stack .NET Developer based in Saudi Arabia. I have spent the last ei
 | Project | What it does |
 | --- | --- |
 | [Beam](https://github.com/aly-abdullah/beam) | Windows app that shares a local Angular project through a public HTTPS link in one click, so a client or teammate can review it without a deployment. |
+| [Vigil](https://github.com/aly-abdullah/vigil) | Windows tray utility that keeps the PC awake only while you are away, by moving the pointer 1 px and back after a set idle time. |
+| [Reclaim](https://github.com/aly-abdullah/reclaim) | Windows memory optimizer that lives in the tray and frees memory on a schedule, at a limit you choose, or with one click. |
+| [Claude Desktop RTL](https://github.com/aly-abdullah/claude-desktop-rtl) | Unofficial Arabic right-to-left support for the Claude desktop app on Windows. |
 
 Most of my professional work lives in private repositories. The projects above are tools I built for my own daily work and decided to share.
 
@@ -29,4 +32,4 @@ Most of my professional work lives in private repositories. The projects above a
 
 [LinkedIn](https://www.linkedin.com/in/aly-abdullah)
 
-If one of these tools saves you time, a star on the repository helps other developers find it.
+If one of these tools saves you time, a star on the repository helps other developers find it. You can also [sponsor my work](https://github.com/sponsors/aly-abdullah).
